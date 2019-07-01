@@ -108,7 +108,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  activerecord
+  activerecord (= 4.2.5)
   capybara
   database_cleaner!
   pry
